@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Sarthak Kalyani | Software Developer & Cybersecurity Enthusiast",
+  title: "Sarthak Kalyani | AI · Software · Cybersecurity",
   description:
-    "Portfolio of Sarthak Kalyani — Computer Science Engineering student focused on Java, full-stack development, AI, and cybersecurity.",
+    "Portfolio of Sarthak Kalyani — Computer Science Engineering student focused on software development, AI, machine learning, and cybersecurity.",
 };
 
 export default function RootLayout({
